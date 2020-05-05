@@ -1,0 +1,4 @@
+To do list;
+- Requirements capture refinement
+- directory refinement
+
